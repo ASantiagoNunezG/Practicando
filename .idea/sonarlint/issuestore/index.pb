@@ -12,3 +12,9 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+E
+src/Cafe/Cliente.java,0\f\0f02dca06c6a49ba4311eec0d17229ddd6676860
+K
+src/Cafe/Recepcionista.java,b\3\b3479bc376e97f8720694019ecfc8cb22f3aaad0
+G
+src/Cafe/CartaCafe.java,c\1\c1a13f6ec7645217b5ea3fdf56e0722d78665925
